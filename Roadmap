@@ -1,0 +1,43 @@
+Roadmap:
+
+Starting plan:
+	1. Understand the Basics of Networking and Security
+
+	Networking Concepts: Learn about TCP/IP, subnets, firewalls, and protocols (HTTP, FTP, DNS, etc.).
+	Security Fundamentals: Familiarize yourself with concepts such as encryption, authentication, and common vulnerabilities (like OWASP Top Ten).
+	
+	2. Learn About Operating Systems
+	
+	Linux: Get comfortable with Linux, as many hacking tools and servers run on it. Start with a distribution like Ubuntu or Kali Linux.
+	Windows: Understand Windows internals, as many targets are Windows-based.
+	
+	3. Programming and Scripting Skills
+	
+	Python: It's widely used in hacking for scripting and automation. Learn how to write scripts to automate tasks.
+	JavaScript: Useful for web application hacking and understanding client-side vulnerabilities.
+	
+	4. Familiarize Yourself with Hacking Tools
+	
+	Kali Linux: A distribution specifically designed for penetration testing with pre-installed tools (like Metasploit, Nmap, Burp Suite).
+	Wireshark: For network analysis and packet sniffing.
+	Burp Suite: For web application security testing.
+	
+	5. Hands-On Practice
+	
+	Capture The Flag (CTF) Competitions: Join platforms like Hack The Box, TryHackMe, or OverTheWire to practice your skills in a controlled environment.
+	Vulnerable Applications: Use intentionally vulnerable applications like DVWA (Damn Vulnerable Web Application) or OWASP Juice Shop to practice exploiting vulnerabilities.
+	
+	6. Learn Ethical Hacking
+	
+	Courses: Consider taking online courses or certifications like Certified Ethical Hacker (CEH) or Offensive Security Certified Professional (OSCP).
+	Books: Read books like "Hacking: The Art of Exploitation" by Jon Erickson or "The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto.
+	
+	7. Stay Updated and Join Communities
+	
+	Forums and Communities: Engage with forums like Reddit’s r/hacking, Stack Overflow, or specialized Discord servers.
+	Follow Blogs and Podcasts: Stay current by following cybersecurity blogs and podcasts.
+	
+	8. Ethical Considerations
+	
+	Always practice hacking ethically. Ensure you have permission before testing systems and adhere to the laws and regulations in your area.
+	Conclusion
