@@ -1,0 +1,30 @@
+Linux notes from Kerrisk-Michael:
+
+    2.1 Fundamental concepts:
+        The kernel:
+            also know as the operating system
+            It provides a software layer to manage the limited resources of a computer.
+            The Linux kernel executable resides at the pathname /boot/vmlinuz
+            Tasks performed by the kernel:
+                Process Scheduling
+                Memory management
+                Provision of a file system
+                Creation and termination of processes
+                Access to devices
+                Networking
+                Provision of a system call application programming interface [API]
+            Kernel mode and User mode:
+                When running in user mode, the CPU can access only the memory that is marked as being in user space, however, it can't access memory in the kernel space
+                When running in kernel mode, CPU can access botht he user and kernel memory space
+                Operations such as executing halt instruction to stop system, accessing memory management hardware, initiating device I/O operation, can only be done in kernel mode.
+    2.2 The Shell:
+    2.3 Users and Groups:
+    2.4 Single Directory Hierarchy, Directories, Links, and Files
+    2.5 File I/O Model:
+    2.6 Programs:
+        Command-line arguments:
+            int main(int argc, char *argv[])
+            -> The argc variable contains the total number of command-line arguments, and the
+            individual arguments are available as strings pointed to by members of the array
+            argv. The first of these strings, argv[0], identifies the name of the program itself
+    2.7 Processes:
